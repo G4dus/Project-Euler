@@ -1,0 +1,4 @@
+﻿1>------ Kompilacja rozpoczęta: Projekt: solving equations, Konfiguracja: Debug x64 ------
+1>solving equations.cpp
+1>solving equations.vcxproj -> C:\Users\AspireV\source\repos\solving equations\x64\Debug\solving equations.exe
+========== Kompilacja: 1 zakończono powodzeniem, 0 zakończono niepowodzeniem, 0 zaktualizowano, 0 pominięto ==========
